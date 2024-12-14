@@ -1,0 +1,2 @@
+# Toshkent_Uylari
+prediction
